@@ -9,7 +9,7 @@ body{
 }
 #img-div {
     display:block;
-    width: 1080px;
+    width: 100%;
     height: 780px;
     display:flex;
     flex-direction: column;
