@@ -8,12 +8,21 @@ body{
     flex-direction: column;
 }
 #img-div {
+<<<<<<< HEAD
     display:block;
     width: 1080px;
     height: 780px;
+=======
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    max-width: 300em;
+    max-width: 100%;
+>>>>>>> 2a091cf16f14e8bda9bfc91bfe201ce7bf583b82
     background: white;
     padding: 10px;
     margin: 0;
+
 }
 
 #image{
@@ -24,3 +33,15 @@ body{
     text-align: center;
     
 }
+<<<<<<< HEAD
+=======
+
+
+#tribute-link{
+    font-size: 25px;
+
+font-weight: 800;
+
+}
+
+>>>>>>> 2a091cf16f14e8bda9bfc91bfe201ce7bf583b82
