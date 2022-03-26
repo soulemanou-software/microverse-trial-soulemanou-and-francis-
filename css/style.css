@@ -8,7 +8,9 @@ body{
     flex-direction: column;
 }
 #img-div {
-    max-width: 100%;
+    display:block;
+    width: 1080px;
+    height: 780px;
     background: white;
     padding: 10px;
     margin: 0;
@@ -22,15 +24,3 @@ body{
     text-align: center;
     
 }
-<<<<<<< HEAD
-=======
-#tribute-link{
-    font-size: 25px;
-<<<<<<< HEAD
-font-weight: 800;
-}
->>>>>>> f198be7069d5ba611508f3cafecdf66f5a3c8f1e
-=======
-    font-weight: 800;
-}
->>>>>>> 97782e73451ba15c9f41c4d6ab3d599a966ba49c
