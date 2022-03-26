@@ -1,3 +1,6 @@
+body{
+    background-color: grey;
+}
 #img-div {
     max-width: 300em;
 }
