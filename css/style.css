@@ -8,8 +8,15 @@ body{
     flex-direction: column;
 }
 #img-div {
-    displ
+    display:flex;
+    justify-content:center;
+    align-items:center;
     max-width: 300em;
+    max-width: 100%;
+    background: white;
+    padding: 10px;
+    margin: 0;
+
 }
 
 #image{
@@ -20,7 +27,12 @@ body{
     text-align: center;
     
 }
+
+
 #tribute-link{
     font-size: 25px;
-    font-weight: 800;
+
+font-weight: 800;
+
 }
+
