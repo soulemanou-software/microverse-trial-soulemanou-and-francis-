@@ -8,7 +8,10 @@ body{
     flex-direction: column;
 }
 #img-div {
-    max-width: 300em;
+    max-width: 100%;
+    background: white;
+    padding: 10px;
+    margin: 0;
 }
 
 #image{
