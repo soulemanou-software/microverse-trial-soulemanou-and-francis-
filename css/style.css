@@ -1,6 +1,12 @@
 body{
     background-color: grey;
 }
+#main{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
 #img-div {
     max-width: 300em;
 }
